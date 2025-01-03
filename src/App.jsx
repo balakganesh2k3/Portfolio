@@ -1,4 +1,4 @@
-import About from "./components/About";
+
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Technologies from "./components/Technologies";
@@ -6,6 +6,8 @@ import Experience from "./components/Experience";
 import Project from "./components/Project";
 import Contact from "./components/Contact";
 import Resume from "./components/Resume";
+import About from "./components/About";
+
 
 
 const App = () => {
