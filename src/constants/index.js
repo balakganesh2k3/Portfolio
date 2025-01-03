@@ -57,7 +57,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "34/A, Masilamanieswarar street, Venkateshwarar nagar, Ambattur, Chennai ",
+  
   phoneNo: "+91 6369996387 ",
   email: "ganeshk202003@gmail.com",
 };
