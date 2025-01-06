@@ -47,13 +47,7 @@ export const PROJECTS = [
       "Post-Human Era Monument is a project where I created a futuristic, post-human environment around the Charminar using Blender. The focus was on blending historical structures with speculative futuristic elements, showcasing my skills in environmental modeling and texturing.",
     technologies: ["Blender", "3D Modelling", "Texturing"],
   },
-  {
-    title: "Air Analysis Usinng Arduino",
-    image: project4,
-    description:
-      "Air Pollution Analysis using Arduino is a project where I designed and developed a system to monitor air quality using sensors and Arduino. The system collects real-time data on pollution levels, providing valuable insights for environmental monitoring and awareness.",
-    technologies: ["Sensors", "Arduino", "Cloud"],
-  },
+
 ];
 
 export const CONTACT = {
