@@ -9,14 +9,14 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full-stack developer a
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: " June 2023 - Present",
     role: "3D Artist",
-    company: "SpectrixCreations Pvt Ltd.",
+    company: "Spectrix Creations Pvt Ltd.",
     description: `A 3D Artist creates and refines 3D models, textures, and animations for industries like gaming, film, and architecture, using tools like Blender or Maya to deliver visually stunning and optimized assets that bring creative visions to life.`,
     technologies: ["Blender", "Unity3D"],
   },
   {
-    year: "2023 - 2024",
+    year: "Nov 2023 - Jan 2024",
     role: "Web Developer Intern",
     company: "Spectrum7 Technologies Pvt Ltd",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
